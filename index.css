@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+
+
+.push{
+border: solid;
+border-color: red;
+display: inline-block;
+height: 200px;
+width: 200px;
+font-size: 20px;
+text-align: center;
+font-weight: bold;
+
+}
+.container{
+    display: none;
+}
